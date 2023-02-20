@@ -64,7 +64,7 @@ def get_kubeconfig(
                 }
             }
         ]
-    },
+    }
 
 
 def create_app(config_path):
